@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/CHANGES.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/build.xml
+END

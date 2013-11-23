@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/358165/lucene/java/trunk/src/test/org/apache/lucene/store
+END
+TestLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/358165/lucene/java/trunk/src/test/org/apache/lucene/store/TestLock.java
+END
+_TestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/165484/lucene/java/trunk/src/test/org/apache/lucene/store/_TestHelper.java
+END

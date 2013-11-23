@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/409694/lucene/java/trunk/contrib/lucli
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/158852/lucene/java/trunk/contrib/lucli/README
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/158852/lucene/java/trunk/contrib/lucli/run.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/381095/lucene/java/trunk/contrib/lucli/build.xml
+END

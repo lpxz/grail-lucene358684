@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/169512/lucene/java/trunk/contrib/similarity
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/169349/lucene/java/trunk/contrib/similarity/README.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/153429/lucene/java/trunk/contrib/similarity/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/165566/lucene/java/trunk/contrib/similarity/build.xml
+END

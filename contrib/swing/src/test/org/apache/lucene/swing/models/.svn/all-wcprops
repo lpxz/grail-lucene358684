@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models
+END
+DataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/DataStore.java
+END
+BaseListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/BaseListModel.java
+END
+TestUpdatingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/TestUpdatingList.java
+END
+ListSearcherSimulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/ListSearcherSimulator.java
+END
+TestBasicTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/TestBasicTable.java
+END
+TestSearchingTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/TestSearchingTable.java
+END
+TestBasicList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/TestBasicList.java
+END
+TestSearchingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/TestSearchingList.java
+END
+BaseTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/BaseTableModel.java
+END
+TestUpdatingTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/TestUpdatingTable.java
+END
+RestaurantInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/RestaurantInfo.java
+END
+TableSearcherSimulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/156591/lucene/java/trunk/contrib/swing/src/test/org/apache/lucene/swing/models/TableSearcherSimulator.java
+END

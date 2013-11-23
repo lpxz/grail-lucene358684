@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/150604/lucene/java/trunk/src/gcj/org/apache/lucene/index
+END
+GCJTermDocs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/150531/lucene/java/trunk/src/gcj/org/apache/lucene/index/GCJTermDocs.cc
+END
+GCJSegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/150604/lucene/java/trunk/src/gcj/org/apache/lucene/index/GCJSegmentReader.java
+END
+GCJTermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/150531/lucene/java/trunk/src/gcj/org/apache/lucene/index/GCJTermDocs.java
+END

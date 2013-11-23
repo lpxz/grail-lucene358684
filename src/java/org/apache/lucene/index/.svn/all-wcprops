@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/355181/lucene/java/trunk/src/java/org/apache/lucene/index
+END
+FieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/329524/lucene/java/trunk/src/java/org/apache/lucene/index/FieldsReader.java
+END
+IndexFileNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/189791/lucene/java/trunk/src/java/org/apache/lucene/index/IndexFileNames.java
+END
+TermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/index/TermEnum.java
+END
+FieldInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/329366/lucene/java/trunk/src/java/org/apache/lucene/index/FieldInfo.java
+END
+SegmentInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/291494/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentInfos.java
+END
+TermBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/150581/lucene/java/trunk/src/java/org/apache/lucene/index/TermBuffer.java
+END
+SegmentTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/150579/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentTermPositions.java
+END
+FieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/150548/lucene/java/trunk/src/java/org/apache/lucene/index/FieldsWriter.java
+END
+Term.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/208682/lucene/java/trunk/src/java/org/apache/lucene/index/Term.java
+END
+TermFreqVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/150566/lucene/java/trunk/src/java/org/apache/lucene/index/TermFreqVector.java
+END
+DocumentWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/348060/lucene/java/trunk/src/java/org/apache/lucene/index/DocumentWriter.java
+END
+TermVectorOffsetInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/150566/lucene/java/trunk/src/java/org/apache/lucene/index/TermVectorOffsetInfo.java
+END
+MultiReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/355181/lucene/java/trunk/src/java/org/apache/lucene/index/MultiReader.java
+END
+TermPositionVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/150566/lucene/java/trunk/src/java/org/apache/lucene/index/TermPositionVector.java
+END
+ParallelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/329366/lucene/java/trunk/src/java/org/apache/lucene/index/ParallelReader.java
+END
+SegmentTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/150581/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentTermEnum.java
+END
+TermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/150426/lucene/java/trunk/src/java/org/apache/lucene/index/TermPositions.java
+END
+TermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/150426/lucene/java/trunk/src/java/org/apache/lucene/index/TermDocs.java
+END
+SegmentMergeQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentMergeQueue.java
+END
+TermInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/156549/lucene/java/trunk/src/java/org/apache/lucene/index/TermInfosReader.java
+END
+IndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/354917/lucene/java/trunk/src/java/org/apache/lucene/index/IndexReader.java
+END
+MultipleTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/224373/lucene/java/trunk/src/java/org/apache/lucene/index/MultipleTermPositions.java
+END
+SegmentMergeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/329068/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentMergeInfo.java
+END
+TermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/170226/lucene/java/trunk/src/java/org/apache/lucene/index/TermVectorsReader.java
+END
+FilterIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/329366/lucene/java/trunk/src/java/org/apache/lucene/index/FilterIndexReader.java
+END
+SegmentTermPositionVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/150566/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentTermPositionVector.java
+END
+TermInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/156669/lucene/java/trunk/src/java/org/apache/lucene/index/TermInfosWriter.java
+END
+SegmentTermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/150531/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentTermDocs.java
+END
+IndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/216236/lucene/java/trunk/src/java/org/apache/lucene/index/IndexWriter.java
+END
+SegmentMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/329366/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentMerger.java
+END
+CompoundFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/208905/lucene/java/trunk/src/java/org/apache/lucene/index/CompoundFileReader.java
+END
+TermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/150689/lucene/java/trunk/src/java/org/apache/lucene/index/TermVectorsWriter.java
+END
+SegmentTermVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/150566/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentTermVector.java
+END
+SegmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentInfo.java
+END
+IndexFileNameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/189790/lucene/java/trunk/src/java/org/apache/lucene/index/IndexFileNameFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/149570/lucene/java/trunk/src/java/org/apache/lucene/index/package.html
+END
+CompoundFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/179621/lucene/java/trunk/src/java/org/apache/lucene/index/CompoundFileWriter.java
+END
+FieldInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/329366/lucene/java/trunk/src/java/org/apache/lucene/index/FieldInfos.java
+END
+TermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/index/TermInfo.java
+END
+SegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/329523/lucene/java/trunk/src/java/org/apache/lucene/index/SegmentReader.java
+END
+IndexModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/354934/lucene/java/trunk/src/java/org/apache/lucene/index/IndexModifier.java
+END

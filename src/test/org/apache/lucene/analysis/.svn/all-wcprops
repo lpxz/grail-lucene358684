@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/354253/lucene/java/trunk/src/test/org/apache/lucene/analysis
+END
+TestAnalyzers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/150412/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestAnalyzers.java
+END
+TestKeywordAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/347995/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestKeywordAnalyzer.java
+END
+TestStopAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/202432/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestStopAnalyzer.java
+END
+TestStopFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/354253/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestStopFilter.java
+END
+TestPerFieldAnalzyerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestPerFieldAnalzyerWrapper.java
+END
+TestStandardAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/332745/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestStandardAnalyzer.java
+END
+TestISOLatin1AccentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/347991/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestISOLatin1AccentFilter.java
+END
+TestLengthFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/347996/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestLengthFilter.java
+END

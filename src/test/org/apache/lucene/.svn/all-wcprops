@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/358165/lucene/java/trunk/src/test/org/apache/lucene
+END
+TestDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/178245/lucene/java/trunk/src/test/org/apache/lucene/TestDemo.java
+END
+SearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/150494/lucene/java/trunk/src/test/org/apache/lucene/SearchTest.java
+END
+TestSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/150494/lucene/java/trunk/src/test/org/apache/lucene/TestSearch.java
+END
+IndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/157224/lucene/java/trunk/src/test/org/apache/lucene/IndexTest.java
+END
+SearchTestForDuplicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/150494/lucene/java/trunk/src/test/org/apache/lucene/SearchTestForDuplicates.java
+END
+TestSearchForDuplicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/150494/lucene/java/trunk/src/test/org/apache/lucene/TestSearchForDuplicates.java
+END
+StoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/150536/lucene/java/trunk/src/test/org/apache/lucene/StoreTest.java
+END
+TestHitIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/164726/lucene/java/trunk/src/test/org/apache/lucene/TestHitIterator.java
+END
+AnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/test/org/apache/lucene/AnalysisTest.java
+END
+ThreadSafetyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/150494/lucene/java/trunk/src/test/org/apache/lucene/ThreadSafetyTest.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/331923/lucene/java/trunk/src/java/org/apache/lucene/queryParser
+END
+QueryParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/156443/lucene/java/trunk/src/java/org/apache/lucene/queryParser/QueryParserTokenManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/150048/lucene/java/trunk/src/java/org/apache/lucene/queryParser/package.html
+END
+QueryParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150506/lucene/java/trunk/src/java/org/apache/lucene/queryParser/QueryParserConstants.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/150017/lucene/java/trunk/src/java/org/apache/lucene/queryParser/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/150017/lucene/java/trunk/src/java/org/apache/lucene/queryParser/TokenMgrError.java
+END
+MultiFieldQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/295117/lucene/java/trunk/src/java/org/apache/lucene/queryParser/MultiFieldQueryParser.java
+END
+QueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/331923/lucene/java/trunk/src/java/org/apache/lucene/queryParser/QueryParser.java
+END
+QueryParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/331923/lucene/java/trunk/src/java/org/apache/lucene/queryParser/QueryParser.jj
+END
+FastCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/queryParser/FastCharStream.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/150017/lucene/java/trunk/src/java/org/apache/lucene/queryParser/CharStream.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/150017/lucene/java/trunk/src/java/org/apache/lucene/queryParser/ParseException.java
+END

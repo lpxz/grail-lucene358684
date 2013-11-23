@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/332362/lucene/java/trunk/src/test/org/apache/lucene/queryParser
+END
+TestMultiAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/332362/lucene/java/trunk/src/test/org/apache/lucene/queryParser/TestMultiAnalyzer.java
+END
+TestMultiFieldQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/295117/lucene/java/trunk/src/test/org/apache/lucene/queryParser/TestMultiFieldQueryParser.java
+END
+TestQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/329383/lucene/java/trunk/src/test/org/apache/lucene/queryParser/TestQueryParser.java
+END

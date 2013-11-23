@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/151590/lucene/java/trunk/contrib/javascript/queryConstructor
+END
+luceneQueryConstructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/151590/lucene/java/trunk/contrib/javascript/queryConstructor/luceneQueryConstructor.html
+END
+testQueryConstructor.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/151590/lucene/java/trunk/contrib/javascript/queryConstructor/testQueryConstructor.html
+END
+luceneQueryConstructor.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/151590/lucene/java/trunk/contrib/javascript/queryConstructor/luceneQueryConstructor.js
+END

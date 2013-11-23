@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/472959/lucene/java/trunk/contrib/highlighter
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/151459/lucene/java/trunk/contrib/highlighter/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/165566/lucene/java/trunk/contrib/highlighter/build.xml
+END

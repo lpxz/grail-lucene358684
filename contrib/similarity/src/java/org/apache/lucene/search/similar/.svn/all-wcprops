@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/169512/lucene/java/trunk/contrib/similarity/src/java/org/apache/lucene/search/similar
+END
+SimilarityQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/153429/lucene/java/trunk/contrib/similarity/src/java/org/apache/lucene/search/similar/SimilarityQueries.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/153429/lucene/java/trunk/contrib/similarity/src/java/org/apache/lucene/search/similar/package.html
+END
+MoreLikeThis.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/169512/lucene/java/trunk/contrib/similarity/src/java/org/apache/lucene/search/similar/MoreLikeThis.java
+END

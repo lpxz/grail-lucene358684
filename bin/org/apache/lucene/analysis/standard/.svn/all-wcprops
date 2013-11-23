@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/332745/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard
+END
+StandardTokenizer.jj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/332745/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/StandardTokenizer.jj
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/150048/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/package.html
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/150017/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/150017/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/TokenMgrError.java
+END
+StandardAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/219090/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/StandardAnalyzer.java
+END
+StandardFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/StandardFilter.java
+END
+FastCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/FastCharStream.java
+END
+StandardTokenizerTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/332745/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/StandardTokenizerTokenManager.java
+END
+StandardTokenizerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/332745/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/StandardTokenizerConstants.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/150017/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/CharStream.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/149679/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/ParseException.java
+END
+StandardTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/332745/lucene/java/trunk/src/java/org/apache/lucene/analysis/standard/StandardTokenizer.java
+END

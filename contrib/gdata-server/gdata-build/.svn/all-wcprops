@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/gdata-build
+END
+get-dependencies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/gdata-build/get-dependencies.xml
+END
+ioc-container.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/gdata-build/ioc-container.xml
+END
+dependency.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/gdata-build/dependency.xml
+END
+hivemind-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/gdata-build/hivemind-build.xml
+END

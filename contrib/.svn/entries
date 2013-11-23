@@ -1,0 +1,119 @@
+10
+
+dir
+358655
+http://svn.apache.org/repos/asf/lucene/java/trunk/contrib
+http://svn.apache.org/repos/asf
+
+
+
+2006-11-17T07:29:44.978629Z
+476065
+whoschek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+incomplete
+13f79535-47bb-0310-9956-ffa450edef68
+
+similarity
+dir
+
+swing
+dir
+
+benchmark
+dir
+
+contrib-build.xml
+file
+477083
+
+
+
+2013-10-23T21:21:13.162613Z
+8fd00fa2fa7f299b84019d6ff2c97473
+2005-05-06T23:43:54.567682Z
+168986
+ehatcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1347
+
+xml-query-parser
+dir
+
+highlighter
+dir
+
+miscellaneous
+dir
+
+spellchecker
+dir
+
+javascript
+dir
+
+analyzers
+dir
+
+lucli
+dir
+
+memory
+dir
+
+regex
+dir
+
+queries
+dir
+
+snowball
+dir
+
+surround
+dir
+
+wordnet
+dir
+
+ant
+dir
+
+gdata-server
+dir
+
+db
+dir
+

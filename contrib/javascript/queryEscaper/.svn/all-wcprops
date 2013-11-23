@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/151590/lucene/java/trunk/contrib/javascript/queryEscaper
+END
+testQueryEscaper.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/151590/lucene/java/trunk/contrib/javascript/queryEscaper/testQueryEscaper.html
+END
+luceneQueryEscaper.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/151590/lucene/java/trunk/contrib/javascript/queryEscaper/luceneQueryEscaper.js
+END

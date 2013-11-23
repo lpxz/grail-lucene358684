@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/354253/lucene/java/trunk/src/java/org/apache/lucene/analysis
+END
+TokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/TokenStream.java
+END
+WordlistLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/192989/lucene/java/trunk/src/java/org/apache/lucene/analysis/WordlistLoader.java
+END
+SimpleAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/SimpleAnalyzer.java
+END
+PerFieldAnalyzerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/216011/lucene/java/trunk/src/java/org/apache/lucene/analysis/PerFieldAnalyzerWrapper.java
+END
+WhitespaceAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/WhitespaceAnalyzer.java
+END
+CharTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/150632/lucene/java/trunk/src/java/org/apache/lucene/analysis/CharTokenizer.java
+END
+PorterStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/PorterStemmer.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/Tokenizer.java
+END
+PorterStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/PorterStemFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/149570/lucene/java/trunk/src/java/org/apache/lucene/analysis/package.html
+END
+LowerCaseTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/LowerCaseTokenizer.java
+END
+KeywordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/347992/lucene/java/trunk/src/java/org/apache/lucene/analysis/KeywordTokenizer.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/219555/lucene/java/trunk/src/java/org/apache/lucene/analysis/Token.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/348207/lucene/java/trunk/src/java/org/apache/lucene/analysis/Analyzer.java
+END
+TokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/TokenFilter.java
+END
+LengthFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/347992/lucene/java/trunk/src/java/org/apache/lucene/analysis/LengthFilter.java
+END
+ISOLatin1AccentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/347992/lucene/java/trunk/src/java/org/apache/lucene/analysis/ISOLatin1AccentFilter.java
+END
+WhitespaceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/WhitespaceTokenizer.java
+END
+LowerCaseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/LowerCaseFilter.java
+END
+LetterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/analysis/LetterTokenizer.java
+END
+KeywordAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/347991/lucene/java/trunk/src/java/org/apache/lucene/analysis/KeywordAnalyzer.java
+END
+StopFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/354253/lucene/java/trunk/src/java/org/apache/lucene/analysis/StopFilter.java
+END
+StopAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/219090/lucene/java/trunk/src/java/org/apache/lucene/analysis/StopAnalyzer.java
+END

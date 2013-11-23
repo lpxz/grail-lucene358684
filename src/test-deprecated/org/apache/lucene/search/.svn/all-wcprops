@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/189622/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search
+END
+TestPhrasePrefixQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestPhrasePrefixQuery.java
+END
+TestSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestSimilarity.java
+END
+TestSetNorm.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestSetNorm.java
+END
+TestSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/189622/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestSort.java
+END
+TestWildcard.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestWildcard.java
+END
+MockFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/MockFilter.java
+END
+TestNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestNot.java
+END
+TestCachingWrapperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestCachingWrapperFilter.java
+END
+CheckHits.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/CheckHits.java
+END
+TestRemoteSearchable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestRemoteSearchable.java
+END
+TestMultiSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestMultiSearcher.java
+END
+SampleComparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/SampleComparable.java
+END
+TestPhraseQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestPhraseQuery.java
+END
+TestPositionIncrement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestPositionIncrement.java
+END
+TestDocBoost.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestDocBoost.java
+END
+TestFuzzyQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestFuzzyQuery.java
+END
+TestTermVectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestTermVectors.java
+END
+TestQueryTermVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestQueryTermVector.java
+END
+TestRangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestRangeQuery.java
+END
+TestBooleanPrefixQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestBooleanPrefixQuery.java
+END
+TestDateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestDateFilter.java
+END
+TestPrefixQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestPrefixQuery.java
+END
+TestParallelMultiSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestParallelMultiSearcher.java
+END
+TestFilteredQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/search/TestFilteredQuery.java
+END

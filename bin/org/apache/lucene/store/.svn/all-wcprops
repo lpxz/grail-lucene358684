@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/351779/lucene/java/trunk/src/java/org/apache/lucene/store
+END
+MMapDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/150616/lucene/java/trunk/src/java/org/apache/lucene/store/MMapDirectory.java
+END
+RAMFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/java/org/apache/lucene/store/RAMFile.java
+END
+IndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/150536/lucene/java/trunk/src/java/org/apache/lucene/store/IndexInput.java
+END
+IndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/150537/lucene/java/trunk/src/java/org/apache/lucene/store/IndexOutput.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/179414/lucene/java/trunk/src/java/org/apache/lucene/store/Lock.java
+END
+BufferedIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/150680/lucene/java/trunk/src/java/org/apache/lucene/store/BufferedIndexInput.java
+END
+BufferedIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/150537/lucene/java/trunk/src/java/org/apache/lucene/store/BufferedIndexOutput.java
+END
+FSDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/312719/lucene/java/trunk/src/java/org/apache/lucene/store/FSDirectory.java
+END
+Directory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/150536/lucene/java/trunk/src/java/org/apache/lucene/store/Directory.java
+END
+RAMDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/351779/lucene/java/trunk/src/java/org/apache/lucene/store/RAMDirectory.java
+END
+RAMInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/150537/lucene/java/trunk/src/java/org/apache/lucene/store/RAMInputStream.java
+END
+InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/150520/lucene/java/trunk/src/java/org/apache/lucene/store/InputStream.java
+END
+RAMOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/150537/lucene/java/trunk/src/java/org/apache/lucene/store/RAMOutputStream.java
+END
+OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/150577/lucene/java/trunk/src/java/org/apache/lucene/store/OutputStream.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/149828/lucene/java/trunk/src/java/org/apache/lucene/store/package.html
+END

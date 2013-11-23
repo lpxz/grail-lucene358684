@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/351778/lucene/java/trunk/src/test/org/apache/lucene/index/store
+END
+TestFSDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/351548/lucene/java/trunk/src/test/org/apache/lucene/index/store/TestFSDirectory.java
+END
+TestRAMDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/351778/lucene/java/trunk/src/test/org/apache/lucene/index/store/TestRAMDirectory.java
+END

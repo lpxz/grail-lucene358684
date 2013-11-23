@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/474244/lucene/java/trunk/contrib/gdata-server/webroot/WEB-INF/classes
+END
+gdata-config.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/433051/lucene/java/trunk/contrib/gdata-server/webroot/WEB-INF/classes/gdata-config.xsd
+END
+gdata-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/433051/lucene/java/trunk/contrib/gdata-server/webroot/WEB-INF/classes/gdata-config.xml
+END
+gdata-account.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/417565/lucene/java/trunk/contrib/gdata-server/webroot/WEB-INF/classes/gdata-account.xsd
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/150603/lucene/java/trunk/src/gcj/org/apache/lucene/store
+END
+GCJDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/150603/lucene/java/trunk/src/gcj/org/apache/lucene/store/GCJDirectory.java
+END
+GCJIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/150531/lucene/java/trunk/src/gcj/org/apache/lucene/store/GCJIndexInput.java
+END
+GCJIndexInput.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/150602/lucene/java/trunk/src/gcj/org/apache/lucene/store/GCJIndexInput.cc
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/351548/lucene/java/trunk/src/test/org/apache/lucene/util
+END
+TestBitVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/test/org/apache/lucene/util/TestBitVector.java
+END
+TestPriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/150411/lucene/java/trunk/src/test/org/apache/lucene/util/TestPriorityQueue.java
+END
+TestStringHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/351548/lucene/java/trunk/src/test/org/apache/lucene/util/TestStringHelper.java
+END
+English.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/150259/lucene/java/trunk/src/test/org/apache/lucene/util/English.java
+END
+TestSmallFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/349074/lucene/java/trunk/src/test/org/apache/lucene/util/TestSmallFloat.java
+END

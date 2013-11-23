@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/164843/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index
+END
+TestSegmentTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestSegmentTermEnum.java
+END
+TestFilterIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestFilterIndexReader.java
+END
+TestTermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestTermVectorsReader.java
+END
+TestIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestIndexWriter.java
+END
+DocHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/DocHelper.java
+END
+MockInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/MockInputStream.java
+END
+TermInfosTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/164843/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TermInfosTest.java
+END
+TestFieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestFieldsReader.java
+END
+TestIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150715/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestIndexReader.java
+END
+TestTermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestTermVectorsWriter.java
+END
+TestInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/150694/lucene/java/trunk/src/test-deprecated/org/apache/lucene/index/TestInputStream.java
+END

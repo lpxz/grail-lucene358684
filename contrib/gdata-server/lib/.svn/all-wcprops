@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/472609/lucene/java/trunk/contrib/gdata-server/lib
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/412574/lucene/java/trunk/contrib/gdata-server/lib/servlet-api.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/430568/lucene/java/trunk/contrib/gdata-server/lib/xercesImpl.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/412574/lucene/java/trunk/contrib/gdata-server/lib/commons-logging-1.1.jar
+END
+commons-beanutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/417265/lucene/java/trunk/contrib/gdata-server/lib/commons-beanutils.jar
+END
+log4j-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/412574/lucene/java/trunk/contrib/gdata-server/lib/log4j-1.2.13.jar
+END
+nekohtml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/430568/lucene/java/trunk/contrib/gdata-server/lib/nekohtml.jar
+END
+commons-digester-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/417265/lucene/java/trunk/contrib/gdata-server/lib/commons-digester-1.7.jar
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/417265/lucene/java/trunk/contrib/gdata-server/lib/commons-collections-3.2.jar
+END
+gdata-client-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/412574/lucene/java/trunk/contrib/gdata-server/lib/gdata-client-1.0.jar
+END

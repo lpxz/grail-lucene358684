@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/151459/lucene/java/trunk/contrib/snowball/bin
+END
+snowball.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/151459/lucene/java/trunk/contrib/snowball/bin/snowball.sh
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/151459/lucene/java/trunk/contrib/snowball/bin/.cvsignore
+END
