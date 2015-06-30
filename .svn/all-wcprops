@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/asf/!svn/ver/477008/lucene/java/trunk
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/150518/lucene/java/trunk/.cvsignore
+END
+BUILD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/476955/lucene/java/trunk/BUILD.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/468291/lucene/java/trunk/build.xml
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/472959/lucene/java/trunk/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/409692/lucene/java/trunk/LICENSE.txt
+END
+common-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/425538/lucene/java/trunk/common-build.xml
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/476679/lucene/java/trunk/CHANGES.txt
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/149622/lucene/java/trunk/index.html
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/381415/lucene/java/trunk/README.txt
+END
